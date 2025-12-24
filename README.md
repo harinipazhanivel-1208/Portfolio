@@ -61,9 +61,12 @@ It is hosted as a static website on Amazon S3 and delivered globally using Amazo
   `http://harinipazhanivel-portfolio.s3-website-region.amazonaws.com`
 - **CloudFront URL:**  
   `https://d2ct48zavirkby.cloudfront.net`
+---  
 ## Skills Gained
 - AWS S3 Static Website Hosting
 - Cloudfront CDN Configuration
 - S3 Bucket Policies & Origin Access Control (OAC)
 - Cloud Security Fundamentals
 - Frontend Deployment on AWS
+
+Author Harini Pazhanivel
