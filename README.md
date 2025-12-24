@@ -32,7 +32,7 @@ It is hosted as a static website on Amazon S3 and delivered globally using Amazo
 - Configured bucket policy to allow public read access for the S3 website endpoint
 
 🔗 **S3 Website Endpoint (Origin Link):**  
-[View Link](http://harinipazhanivel-portfolio.s3-website-us-east-1.amazonaws.com)
+   [View Link](http://harinipazhanivel-portfolio.s3-website-us-east-1.amazonaws.com)
 
 ---
 
@@ -44,7 +44,7 @@ It is hosted as a static website on Amazon S3 and delivered globally using Amazo
 - Enabled caching for faster content delivery
 
 🔗 **CloudFront Distribution URL:**  
-[View Link](d2ct48zavirkby.cloudfront.net)
+   [View Link](d2ct48zavirkby.cloudfront.net)
 
 ---
 
