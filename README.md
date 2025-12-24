@@ -12,6 +12,8 @@ It is hosted as a static website on Amazon S3 and delivered globally using Amazo
 - Amazon CloudFront – Global content delivery (CDN)
 - HTML, CSS, JavaScript - Frontend development
 
+---
+
 ## 🚀 Project Implementation Steps
 
 ### 1️⃣ Website Development
