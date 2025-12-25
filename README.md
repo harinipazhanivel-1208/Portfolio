@@ -56,7 +56,7 @@ It is hosted as a static website on Amazon S3 and delivered globally using Amazo
 - **S3 Website (Origin):**  
   [View Link](http://harinipazhanivel-portfolio.s3-website-us-east-1.amazonaws.com)
 - **CloudFront URL:**  
-  [View Link](https://d2ct48zavirkby.cloudfront.net/)
+  [View Link](https://d2ct48zavirkby.cloudfront.net)
 ---  
 ## Skills Gained
 - AWS S3 Static Website Hosting
